@@ -1,0 +1,8 @@
+Fitur
+1. Server Side
+2. Upload Multiple File(Dropzone.js)
+3. Register/Login
+4. Email Verification
+5. Reset Password
+6. Update Profile dan Password
+7. Roles and Permission by Spatie
